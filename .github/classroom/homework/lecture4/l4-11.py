@@ -7,4 +7,4 @@ if num_list % 2 == 0:
     med = (list_num[num_list//2 - 1] + list_num[num_list//2]) / 2
 else:
     med = list_num[num_list// 2]
-print('Median is: ', str(med))
+print('Median is: ', med)
